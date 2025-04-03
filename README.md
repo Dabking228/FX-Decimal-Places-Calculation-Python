@@ -9,6 +9,7 @@ Types of Exchange Rates:
 - Inverted Rate (Without rounding up)
 - Round up the inverted rate to 8 decimal places
 - Discard/Hide/Truncate the decimal places beyond the 8th place of the inverted rate
+  
 Types of Calculations:
 - Buying Amount for Sell Flow
 - Selling Amount for Buy Flow
