@@ -5,6 +5,7 @@
 Generate a random record of FX calculations between two currencies into a CSV file.
 
 Compare different types of exchange rates handling method by using different types of calculations
+
 Types of Exchange Rates: 
 - Inverted Rate (Without rounding up)
 - Round up the inverted rate to 8 decimal places
